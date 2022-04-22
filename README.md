@@ -65,7 +65,7 @@ This repository contains the materials, source codes and links which were explor
     - [Informatica](https://www.informatica.com/)
     - [IBM Infosphere Datastage](https://www.ibm.com/products/datastage)
     - Watson Studio Desktop
-    - Talend
+    - [Talend](https://www.talend.com/)
   - Cloud 
     - Informatica
     - IBM Data Refinery
@@ -77,14 +77,14 @@ This repository contains the materials, source codes and links which were explor
   - Commercial
     - [Tableau](https://www.tableau.com/)
     - [Microsoft Power BI](https://powerbi.microsoft.com/en-us/)
-    - [IBM Cognos]
+    - [IBM Cognos]()
   - Cloud
     - [Datameer](https://www.datameter.com/)
-    - [IBM Cognos Analytics]((https://www.ibm.com/products/cognos-analytics))
+    - [IBM Cognos Analytics](https://www.ibm.com/products/cognos-analytics)
 - **Model Building**
   - Commercial
-    - IBM SPSS Modeler
-    - SAS Enterprise Miner
+    - [IBM SPSS Modeler](https://www.ibm.com/products/spss-modeler)
+    - [SAS Enterprise Miner](https://www.sas.com/en_us/software/enterprise-miner.html)
 - **Model Deployment**
   - Open Source
     - Prediction10
@@ -117,10 +117,10 @@ This repository contains the materials, source codes and links which were explor
 - **Development Environment**
   - Open Source
     - Jupyter
-    - Jupyter Lab
-    - Zeppelin Notebook
+    - [Jupyter Lab](https://jupyter.org/)
+    - [Zeppelin Notebook](https://zeppelin.apache.org/)
     - R Studio
-    - Spyder
+    - [Spyder](https://www.spyder-ide.org/)
   - Commercial
     - Watson Studio Desktop
 - **Cluser Execution Environment**
@@ -144,3 +144,12 @@ This repository contains the materials, source codes and links which were explor
 - [IBM Data Asset eXchange (DAX)](https://developer.ibm.com/exchanges/data/)
 
 ## Course - 2 : Deploying Machine Learning Models in Production
+
+- **Input Feature Lookup**
+  - [Google Cloud Memorystore](https://cloud.google.com/memorystore)
+  - [Google Cloud Firestore](https://cloud.google.com/firestore)
+  - [Google Cloud Bigtable](https://cloud.google.com/bigtable)
+  - [Amazon DynamoDB](https://aws.amazon.com/dynamodb/)
+
+- **Model Deployment**
+  - [TensorFlow Lite](https://www.tensorflow.org/lite)
