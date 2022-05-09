@@ -151,5 +151,10 @@ This repository contains the materials, source codes and links which were explor
   - [Google Cloud Bigtable](https://cloud.google.com/bigtable)
   - [Amazon DynamoDB](https://aws.amazon.com/dynamodb/)
 
-- **Model Deployment**
+- **Model Deployment Servers**
   - [TensorFlow Lite](https://www.tensorflow.org/lite)
+  - [Clipper]()
+  - [TensorFlow Serving](https://www.tensorflow.org/tfx/guide/serving)
+  - [KubeFlow Serving](https://www.kubeflow.org/docs/started/)
+  - [NVIDIA Triton Inference Server](https://developer.nvidia.com/nvidia-triton-inference-server)
+   
