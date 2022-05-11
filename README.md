@@ -5,6 +5,13 @@ This repository contains the materials, source codes and links which were explor
 
 ## Course - 1 : Tools for Data Science
 
+<p align="center">
+  <img src="Assets/IBM_Digital_Badge.png" width="400" /> 
+</p>
+
+[IBM Watson Studio - Jupyter Notebook Assignment](https://eu-gb.dataplatform.cloud.ibm.com/analytics/notebooks/v2/ecfa7442-c41b-49d6-81d3-90c3d2109942/view?access_token=bcfffe427c4efabfa3c928fb5d25534cc7e9cbacfb777dfe93f99ee1fa2b8441) <br/>
+[IBM Watson Studio - Jupyter Notebook Code](https://eu-gb.dataplatform.cloud.ibm.com/analytics/notebooks/v2/3a7c965b-3fdb-4eb9-9749-489d432ac8f2/view?access_token=bc12bb9828bcbd07bb1e29d58f3988853d2d766efd137818ac2f60a4ba7b8d47) <br/>
+
 #### Languages and Library & Tools of Data Science 
   - **Python** 
     - Pandas : Data Structure & Tools
