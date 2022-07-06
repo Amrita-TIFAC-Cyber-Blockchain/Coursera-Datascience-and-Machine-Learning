@@ -165,3 +165,16 @@ This repository contains the materials, source codes and links which were explor
   - [KubeFlow Serving](https://www.kubeflow.org/docs/started/)
   - [NVIDIA Triton Inference Server](https://developer.nvidia.com/nvidia-triton-inference-server)
    
+- **Data Versioning**
+  - [Neptune](https://neptune.ai/)
+  - [Pachyderm](https://www.pachyderm.com/)
+  - [Delta Lake](https://delta.io/)
+  - [Git LFS](https://git-lfs.github.com/)
+  - [Dolt](https://www.dolthub.com/)
+  - [LakeFS](https://lakefs.io/)
+  - [DVC](https://dvc.org/)
+  - [ML-Metadata](https://www.tensorflow.org/tfx/guide/mlmd)
+  - [Wandb](https://wandb.ai/site)
+  
+- **Logging Metrics**
+  - [TensorBoard](https://www.tensorflow.org/tensorboard)
