@@ -152,18 +152,19 @@ This repository contains the materials, source codes and links which were explor
 
 ## Course - 2 : Deploying Machine Learning Models in Production
 
-- **Input Feature Lookup**
-  - [Google Cloud Memorystore](https://cloud.google.com/memorystore)
-  - [Google Cloud Firestore](https://cloud.google.com/firestore)
-  - [Google Cloud Bigtable](https://cloud.google.com/bigtable)
-  - [Amazon DynamoDB](https://aws.amazon.com/dynamodb/)
+- **Model Serving**
+  - **Input Feature Lookup**
+    - [Google Cloud Memorystore](https://cloud.google.com/memorystore)
+    - [Google Cloud Firestore](https://cloud.google.com/firestore)
+    - [Google Cloud Bigtable](https://cloud.google.com/bigtable)
+    - [Amazon DynamoDB](https://aws.amazon.com/dynamodb/)
 
-- **Model Deployment Servers**
-  - [TensorFlow Lite](https://www.tensorflow.org/lite)
-  - [Clipper]()
-  - [TensorFlow Serving](https://www.tensorflow.org/tfx/guide/serving)
-  - [KubeFlow Serving](https://www.kubeflow.org/docs/started/)
-  - [NVIDIA Triton Inference Server](https://developer.nvidia.com/nvidia-triton-inference-server)
+  - **Model Deployment Servers**
+    - [TensorFlow Lite](https://www.tensorflow.org/lite)
+    - [Clipper]()
+    - [TensorFlow Serving](https://www.tensorflow.org/tfx/guide/serving)
+    - [KubeFlow Serving](https://www.kubeflow.org/docs/started/)
+    - [NVIDIA Triton Inference Server](https://developer.nvidia.com/nvidia-triton-inference-server)
    
 - **Data Versioning**
   - [Neptune](https://neptune.ai/)
@@ -178,3 +179,10 @@ This repository contains the materials, source codes and links which were explor
   
 - **Logging Metrics**
   - [TensorBoard](https://www.tensorflow.org/tensorboard)
+  
+- **Notebooks**
+  - nbconvert
+  - nbdime
+  - jupytext
+  - neptune-notebooks
+  - git
