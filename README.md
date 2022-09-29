@@ -3,7 +3,7 @@
 
 This repository contains the materials, source codes and links which were explored and experimented for "**Data Science and Machine Learning**" Courses as part of my Ph.D. Coursework (Oct, 2021 - Jun, 2022). 
 
-## Course - 1 : Tools for Data Science
+## Course - 1 : Tools for Data Science  ![](https://img.shields.io/badge/Ph.D%20Coursework-O-blue)
 
 <p align="center">
   <img src="Assets/IBM_Digital_Badge.png" width="400" /> 
