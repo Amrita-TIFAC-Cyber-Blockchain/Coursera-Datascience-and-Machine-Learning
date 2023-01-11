@@ -1,7 +1,7 @@
 # Coursera - Tools for Data Science and Machine Learning Model Deployment
 
 
-This repository contains the materials, source codes and links which were explored and experimented for "**Data Science and Machine Learning**" Courses as part of my Ph.D. Coursework (Oct, 2021 - Jun, 2022). 
+This repository contains the materials, source codes and links which were explored and experimented for "**Data Science and Machine Learning**" Courses as part of my Ph.D. Coursework (Oct, 2021 - Jan, 2023). 
 
 ## Course - 1 : Tools for Data Science ![](https://img.shields.io/badge/Ph.D%20Coursework-Completed-green) ![](https://img.shields.io/badge/Ph.D%20Coursework-O-blue)
 
@@ -186,3 +186,9 @@ This repository contains the materials, source codes and links which were explor
   - jupytext
   - neptune-notebooks
   - git
+  
+ ### Lab Exercises - Google Cloud 
+  - [Autoscaling TensorFlow model deployments with TF Serving and Kubernetes]()
+  - [TFX on Google Cloud Vertex Pipelines]()
+  - [Implementing Canary Releases of TensorFlow Model Deployments with Kubernetes and Anthos Service Mesh]()
+  - [Data Loss Prevention: Qwik Start - JSON]()
