@@ -187,8 +187,9 @@ This repository contains the materials, source codes and links which were explor
   - neptune-notebooks
   - git
   
- ### Lab Exercises - Google Cloud 
+### Lab Exercises - Google Cloud 
+
   - [Autoscaling TensorFlow model deployments with TF Serving and Kubernetes](Models/Lab1)
-  - [TFX on Google Cloud Vertex Pipelines](Models/Lab3)
+  - [TFX on Google Cloud Vertex Pipelines](Models/Lab2)
   - [Implementing Canary Releases of TensorFlow Model Deployments with Kubernetes and Anthos Service Mesh](Models/Lab3)
   - [Data Loss Prevention: Qwik Start - JSON](Models/Lab4)
