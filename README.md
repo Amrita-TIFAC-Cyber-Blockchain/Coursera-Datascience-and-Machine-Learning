@@ -3,7 +3,7 @@
 
 This repository contains the materials, source codes and links which were explored and experimented for "**Data Science and Machine Learning**" Courses as part of my Ph.D. Coursework (Oct, 2021 - Jan, 2023). 
 
-## Course - 1 : Tools for Data Science ![](https://img.shields.io/badge/Ph.D%20Coursework-Completed-green) ![](https://img.shields.io/badge/Ph.D%20Coursework-O-blue)
+## Course - 1 : Tools for Data Science ![](https://img.shields.io/badge/Ph.D%20Coursework-Completed-darkgreen) ![](https://img.shields.io/badge/Ph.D%20Coursework-O-blue)
 
 <p align="center">
   <img src="Assets/IBM_Digital_Badge.png" width="400" /> 
@@ -150,7 +150,7 @@ This repository contains the materials, source codes and links which were explor
 - [Google Data Set Search](https://datasetsearch.research.google.com/)
 - [IBM Data Asset eXchange (DAX)](https://developer.ibm.com/exchanges/data/)
 
-## Course - 2 : Deploying Machine Learning Models in Production ![](https://img.shields.io/badge/Ph.D%20Coursework-In_Progress-orange)
+## Course - 2 : Deploying Machine Learning Models in Production ![](https://img.shields.io/badge/Ph.D%20Coursework-Completed-darkgreen) ![](https://img.shields.io/badge/Ph.D%20Coursework-TBD-blue)
 
 - **Model Serving**
   - **Input Feature Lookup**
@@ -188,7 +188,7 @@ This repository contains the materials, source codes and links which were explor
   - git
   
  ### Lab Exercises - Google Cloud 
-  - [Autoscaling TensorFlow model deployments with TF Serving and Kubernetes]()
-  - [TFX on Google Cloud Vertex Pipelines]()
-  - [Implementing Canary Releases of TensorFlow Model Deployments with Kubernetes and Anthos Service Mesh]()
-  - [Data Loss Prevention: Qwik Start - JSON]()
+  - [Autoscaling TensorFlow model deployments with TF Serving and Kubernetes](Models/Lab1)
+  - [TFX on Google Cloud Vertex Pipelines](Models/Lab3)
+  - [Implementing Canary Releases of TensorFlow Model Deployments with Kubernetes and Anthos Service Mesh](Models/Lab3)
+  - [Data Loss Prevention: Qwik Start - JSON](Models/Lab4)
