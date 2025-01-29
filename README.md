@@ -1,6 +1,4 @@
-# Coursera - Tools for Data Science and Machine Learning Model Deployment
-
-
+# Coursera - Tools for Data Science and Machine Learning Model Deployment ![](https://img.shields.io/badge/madeby-Ramaguru-blue.svg)
 This repository contains the materials, source codes and links which were explored and experimented for "**Data Science and Machine Learning**" Courses as part of my Ph.D. Coursework (Oct, 2021 - Jan, 2023). 
 
 ## Course - 1 : Tools for Data Science ![](https://img.shields.io/badge/Ph.D%20Coursework-Completed-darkgreen) ![](https://img.shields.io/badge/Ph.D%20Coursework-O-blue)
@@ -150,7 +148,7 @@ This repository contains the materials, source codes and links which were explor
 - [Google Data Set Search](https://datasetsearch.research.google.com/)
 - [IBM Data Asset eXchange (DAX)](https://developer.ibm.com/exchanges/data/)
 
-## Course - 2 : Deploying Machine Learning Models in Production ![](https://img.shields.io/badge/Ph.D%20Coursework-Completed-darkgreen) ![](https://img.shields.io/badge/Ph.D%20Coursework-TBD-blue)
+## Course - 2 : Deploying Machine Learning Models in Production ![](https://img.shields.io/badge/Ph.D%20Coursework-Completed-darkgreen) ![](https://img.shields.io/badge/Ph.D%20Coursework-O-blue)
 
 - **Model Serving**
   - **Input Feature Lookup**
